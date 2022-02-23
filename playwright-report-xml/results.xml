@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="15.659">
+<testsuite name="e2e-login.spec.ts" timestamp="1645606082314" hostname="" tests="5" failures="0" skipped="0" time="24.214" errors="0">
+<testcase name="Login page tests Check page redirect to the required url" classname="[Chromium] › e2e-login.spec.ts:14:5 › Login page tests › Check page redirect to the required url" time="6.181">
+</testcase>
+<testcase name="Login page tests Check page title" classname="[Chromium] › e2e-login.spec.ts:18:5 › Login page tests › Check page title" time="6.607">
+</testcase>
+<testcase name="Login page tests Check page subtitle text" classname="[Chromium] › e2e-login.spec.ts:22:5 › Login page tests › Check page subtitle text" time="3.47">
+</testcase>
+<testcase name="Login page tests Check validation error message when click on login without enter values @validationError" classname="[Chromium] › e2e-login.spec.ts:26:5 › Login page tests › Check validation error message when click on login without enter values @validationError" time="3.894">
+</testcase>
+<testcase name="Login page tests Check validation error message when fill in wrong username and password @validationError" classname="[Chromium] › e2e-login.spec.ts:31:5 › Login page tests › Check validation error message when fill in wrong username and password @validationError" time="4.062">
+</testcase>
+</testsuite>
+</testsuites>
